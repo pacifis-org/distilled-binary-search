@@ -1,2 +1,2 @@
 # Distilled: Binary Search
-Code snippets from the article [Distilled: Binary Search](www.pacifis.org/distilled-binary-search/)
+Code snippets from the article [Distilled: Binary Search](https://www.pacifis.org/distilled-binary-search/)
